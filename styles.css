@@ -1,0 +1,43 @@
+* {
+  font-family: Verdana, sans-serif;
+  background-color:	#F4F0E8;
+  color: #464242;
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
+
+h2 {
+  text-align: justify;
+  color: #01c20b;
+}
+
+h3 {
+  font-family: cursive, sans-serif;
+  font-style: italic;
+  font-size: 18px;
+  color: #FE8529;
+}
+
+li {
+  text-align: justify;
+}
+
+.para-one {
+  color: #E12836;
+}
+
+.para-two {
+  color: #01c20b;
+}
+
+.ingredients-header {
+  color:rgb(145, 89, 34);
+}
+
+.steps-header {
+  color:rgb(197, 145, 67);
+}
